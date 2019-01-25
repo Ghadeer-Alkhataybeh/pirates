@@ -8,3 +8,6 @@ npm install
 npm start || npm run server-dev (to run with nodemon)
 
 to have access to authenticated end point "/pirates/countPirates" use the token (Bearer 9902020059)
+
+# Deployment link
+https://floating-scrubland-47381.herokuapp.com
